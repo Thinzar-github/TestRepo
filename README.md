@@ -1,4 +1,4 @@
-SQL-Associate
+<H1>SQL-Associate<H1>
 To obtain the Associate SQL Certification, this candidate had to demonstrate that they have the knowledge, skills, and abilities to successfully use SQL for data analysis. The competency domains assessed included, but were not limited to:
 
 Data Management
